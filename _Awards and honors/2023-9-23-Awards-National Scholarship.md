@@ -1,7 +1,7 @@
 ---
 title: "National Scholarship"
 collection: Awards and honors
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /Awards and honors/2023-9-23-Awards-National Scholarship
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-9-23
 venue: 'Journal 1'
