@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Personal experiences"
+permalink: /Personal experiences/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,37 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Activities
 ======
-* B.S. 
-* M.S. 
-* Ph.D 
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-Skills
-======
-* Skill Matlab
-* Skill Comsol
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* No
+1
