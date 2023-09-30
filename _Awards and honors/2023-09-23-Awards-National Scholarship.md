@@ -1,7 +1,7 @@
 ---
 title: "National Scholarship"
-collection: Awards and honors
-permalink: /Awards and honors/2023-09-23-Awards-National Scholarship
+collection: awards_and_honors
+permalink: /awards_and_honors/2023-09-23-Awards-National Scholarship
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-09-23
 #venue: 'Journal 1'
