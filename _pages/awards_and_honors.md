@@ -12,16 +12,13 @@ redirect_from:
 Awards
 ======
 * Spring 2023: CUPT outstanding winner
-  * Nanjing University
-  * Supervisor: CUPT Executive Committee
+  * CUPT Executive Committee
 
 Honors
 ======
 * Spring 2023: Outstanding Students
-  * Nanjing University
-  * Supervisor: College of First-Year Students
+  * College of First-Year Students Nanjing University
 
 
 * Fall 2023: National Scholarship(For undergraduate students)
-  * Nanjing University
-  * Supervisor: Schools of Physics
+  * Schools of Physics Nanjing University
