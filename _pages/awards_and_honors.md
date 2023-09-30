@@ -17,8 +17,8 @@ Awards
 Honors
 ======
 * Spring 2023: Outstanding Students
-  * College of First-Year Students Nanjing University
+  * College of First-Year Students, Nanjing University
 
 
 * Fall 2023: National Scholarship(For undergraduate students)
-  * Schools of Physics Nanjing University
+  * Schools of Physics, Nanjing University
