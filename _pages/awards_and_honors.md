@@ -11,7 +11,7 @@ redirect_from:
 
 Awards
 ======
-* Spring 2023: First Grade Award in the 26^{th} Forum of Science & Art of Nanjing University
+* Spring 2023: First Grade Award in the 26th Forum of Science & Art of Nanjing University
   * Kuang Yaming Honors School, Nanjing University
   * Undergraduate School, Nanjing University
 
