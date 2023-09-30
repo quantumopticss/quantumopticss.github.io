@@ -17,6 +17,11 @@ Awards
 
 Honors
 ======
-* Fall 2023: National Scholarship
+* Spring 2023: Outstanding Students
+  * Nanjing University
+  * Supervisor: College of First-Year Students
+
+
+* Fall 2023: National Scholarship(For undergraduate students)
   * Nanjing University
   * Supervisor: Schools of Physics
