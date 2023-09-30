@@ -180,7 +180,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publications/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -189,10 +189,10 @@ collections:
     permalink: /:collection/:path/
   personal_experiences:
     output: true
-    permalink: /:collection/:path/
+    permalink: /personal_experiences/:path/
   awards_and_honors:
     output: true
-    permalink: /:collection/:path/
+    permalink: /awards_and_honors/:path/
 
 
 # Defaults
