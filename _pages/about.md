@@ -9,13 +9,12 @@ redirect_from:
 ---
 LZF
 
+Education
+======
+* 2022-now B.S. NanJing University
 
 Interests
 ======
-AMO
+* AMO
 
-ECE
-
-Education
-======
-2022-now B.S. NanJing University
+* ECE
