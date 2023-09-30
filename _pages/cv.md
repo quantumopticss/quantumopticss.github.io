@@ -26,7 +26,7 @@ Skills
 ======
 * Skill Matlab
 * Skill Comsol
-* Skill 3
+* Skill Zemax
 
 Publications
 ======
