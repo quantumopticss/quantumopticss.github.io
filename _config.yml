@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  personal_experiences:
+    output: true
+    permalink: /:collection/:path/
+  awards_and_honors:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
