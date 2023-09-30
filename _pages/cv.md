@@ -24,9 +24,9 @@ Work experience
 
 Skills
 ======
-* Skill Matlab
-* Skill Comsol
-* Skill Zemax
+* Matlab
+* Comsol
+* Zemax
 
 Publications
 ======
