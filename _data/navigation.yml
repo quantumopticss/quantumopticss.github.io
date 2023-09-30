@@ -15,11 +15,11 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "Awards and honors"
-    url: /Awards and honors/
+  - title: "Awards and Honors"
+    url: /Awards and Honors/
 
-  - title: "Personal experiences"
-    url: /Personal experiences/
+  - title: "Personal Experiences"
+    url: /Personal Experiences/
 
   - title: "CV"
     url: /cv/
