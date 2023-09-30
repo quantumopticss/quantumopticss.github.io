@@ -11,14 +11,12 @@ redirect_from:
 
 Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023: CUPT outstanding winner
+  * Nanjing University
+  * Supervisor: CUPT Executive Committee
 
 Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: National Scholarship
+  * Nanjing University
+  * Supervisor: Schools of Physics
