@@ -11,11 +11,15 @@ redirect_from:
 
 Awards
 ======
+* Fall 2021: Third Grade Awrad in the 38th Chinese Physics Olympiad (CPHO)
+  * Chinese Physical Society
+  * China Association for Science and Technology
+
 * Spring 2023: First Grade Award in the 26th Forum of Science & Art of Nanjing University
   * Kuang Yaming Honors School, Nanjing University
   * Undergraduate School, Nanjing University
 
-* Spring 2023: CUPT outstanding winner
+* Spring 2023: Outstanding Winner in the 6th China Undergraduate Physics Tournament (CUPT) East China Competition
   * CUPT Executive Committee
 
 Honors
