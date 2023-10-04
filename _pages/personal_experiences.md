@@ -9,4 +9,7 @@ author_profile: true
 
 Activities
 ======
-1
+* <a href="{{Wu li chuang xin shi jian huo dong}}">
+  * Nanjing University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
