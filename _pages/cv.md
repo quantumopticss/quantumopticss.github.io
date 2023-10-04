@@ -34,12 +34,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Blogs
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.blogs %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Personal Experiences
+======
+  <ul>{% for post in site.personal_experiences %}
+    {% include archive-personal_experiences-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* No
