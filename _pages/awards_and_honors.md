@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards and Honors"
+title: "Academic Awards and Honors"
 permalink: /awards_and_honors/
 author_profile: true
 redirect_from:
