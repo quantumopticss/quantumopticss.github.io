@@ -9,4 +9,4 @@ author_profile: true
 
 Activities
 ======
-2
+1
