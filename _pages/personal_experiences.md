@@ -5,6 +5,8 @@ permalink: /personal_experiences/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Activities
 ======
-1
+2
