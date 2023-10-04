@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Activities
-======
-1
+{% for post in site.personal_experiences reversed %}
+  {% include archive-single.html %}
+{% endfor %}
