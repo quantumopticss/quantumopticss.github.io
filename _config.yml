@@ -193,6 +193,9 @@ collections:
   awards_and_honors:
     output: true
     permalink: /:collection/:path/
+  activities:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -248,6 +251,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _activities
+  - scope:
+      path: ""
+      type: activities
+    values:
+      layout: activity
       author_profile: true
       share: true
 
