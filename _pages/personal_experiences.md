@@ -10,10 +10,10 @@ author_profile: true
 Activities
 ======
 {% for post in site.activities reversed %}
-  {% include archive-single-activities.html %}
+  {% include archive-single-activity.html %}
 {% endfor %}
 
-Talks
+Talks and Lecture
 ======
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
