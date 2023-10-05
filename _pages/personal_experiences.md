@@ -10,11 +10,11 @@ author_profile: true
 Activities Talks and Lectures
 ======
   <ul>{% for post in site.activities reversed %}
-    {% include archive-single-activity.html %}
-  {% endfor %}</ul>
+{% include archive-single-activity.html %}
+  {% endfor %}
 
 1
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
-  {% endfor %}</ul>
+{% include archive-single-talk.html %}
+  {% endfor %}
