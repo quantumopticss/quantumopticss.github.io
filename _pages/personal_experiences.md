@@ -9,9 +9,9 @@ author_profile: true
 
 Activities
 ======
-{% for post in site.activities reversed %}
+<ul>{% for post in site.activities reversed %}
   {% include archive-single-activity.html %}
-{% endfor %}
+{% endfor %}<ul>
 
 Talks and Lecture
 ======
