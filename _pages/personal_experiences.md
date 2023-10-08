@@ -9,10 +9,6 @@ author_profile: true
 
 Activities Talks and Lectures
 ======
-{% for post in site.activities reversed %}
-  {% include archive-single-activity.html %}
-{% endfor %}
-
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
