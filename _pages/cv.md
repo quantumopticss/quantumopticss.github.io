@@ -42,3 +42,8 @@ Talks and Lectures
   
 Service and leadership
 ======
+* Section head of Academic and Activities, Youxun Academy, College of First-Year Students, Nanjing University 2023-2024
+[Activities]()
+
+* Section head of Academic, 支点学社 2023-2024
+[Activities]()
