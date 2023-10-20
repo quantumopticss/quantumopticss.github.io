@@ -2,7 +2,7 @@
 title: "Fractal trajectories of charged particles in temporal periodic electromagnetic fields"
 collection: publications
 permalink: /publication/2099-10-01-paper-title-number-1
-excerpt: 'This paper is about my study about '
+excerpt: 'Motion of charged particles in periodic electromagnetic fields will be fractals'
 date: 2023-11-20
 venue: 'European Journal of Physics'
 paperurl: 'http://quantumopticss.github.io/files/paper1.pdf'
