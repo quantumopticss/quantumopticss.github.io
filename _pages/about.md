@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-LZF
+I'm Zifeng Li. A student in Nanjing University, who are interested in AMO.
 
 Education
 ======
@@ -16,5 +16,3 @@ Education
 Interests
 ======
 * AMO
-
-* ECE
