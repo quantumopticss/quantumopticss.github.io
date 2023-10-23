@@ -1,5 +1,5 @@
 ---
-title: "Fractal trajectories of charged particles in temporal periodic electromagnetic fields"
+title: "Fractal trajectories of charged particles in temporal periodic electromagnetic fields(havn't been received now)"
 collection: publications
 permalink: /publication/2099-10-01-paper-title-number-1
 excerpt: 'Motion of charged particles in periodic electromagnetic fields will be fractals'
